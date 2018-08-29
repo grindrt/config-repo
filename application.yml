@@ -1,3 +1,8 @@
+ConnectionStrings: 
+    cop_lob: Data Source=WAWMB01B12\\SQLEXPRESS;Initial Catalog=csim_cash_oversight;User Id=cop;Password=sql_4ever
+    cop_datamart: Data Source=WAWMB01B12\\SQLEXPRESS;Initial Catalog=csim_cash_oversight;User Id=cop;Password=sql_4ever
+
+
 info:
   description: Spring Cloud Samples
   url: https://github.com/reagul/config-repo/blob/master/application.yml
